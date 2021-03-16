@@ -1,2 +1,2 @@
 # COGS-118A
-My Final Project for COGS 118A: Supervised Machine Learning Algorithms
+An Empirical Replication of CNM06: Supervised Model Comparisons. This was my smaller scale replication of the CNM06 paper for my COGS118A class.
