@@ -13,9 +13,13 @@ The Code for running all algorithms, datasets and trials can be found under "COG
 Raw Data collected from my analysis can be found under each file titled "Raw Test Data (Data_Name).xlsx"
 
 ***Datasets can be found from the UCI Machine Learning Repository:*** 
+
 https://archive.ics.uci.edu/ml/datasets/adult 
+
 https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
+
 https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
+
 https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset
 
 
