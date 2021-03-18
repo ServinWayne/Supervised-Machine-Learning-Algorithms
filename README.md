@@ -11,7 +11,7 @@ The Final Report can be found under "COGS 118A Final Project Report.pdf".
 
 The Code for running all algorithms, datasets and trials can be found under "COGS 118A Final Project Code.ipynb".
 
-Raw Data collected from my analysis can be found under each file titled "Raw Test Data (Data_Name).xlsx"
+Raw Data collected from my analysis can be found under each file titled "Raw Testing Data (Data_Name).xlsx"
 
 ***Datasets can be found from the UCI Machine Learning Repository:*** 
 
