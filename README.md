@@ -7,9 +7,11 @@ This was my smaller scale replication of the CNM06 paper for my COGS118A class. 
 
 The algorithm's performances were tested using 4 metrics: Accuracy, Precision, Recall, and F1 which I discuss further in my paper. 
 
-The Final Report can be found under "COGS 118A Final Project Report.pdf".
+The final report can be found under "COGS 118A Final Project Report.pdf".
 
-The Code for running all algorithms, datasets and trials can be found under "COGS 118A Final Project Code.ipynb".
+The code for running all algorithms, datasets and trials can be found under "COGS 118A Final Project Code.ipynb".
+
+The code for my heatmaps per dataset can be found under "COGS 118A Final Project - Heat Map.ipynb".
 
 Raw Data collected from my analysis can be found under each file titled "Raw Testing Data (Data_Name).xlsx"
 
